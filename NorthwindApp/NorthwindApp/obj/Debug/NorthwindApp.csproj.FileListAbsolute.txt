@@ -1,0 +1,9 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindApp\NorthwindApp\bin\NorthwindApp.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindApp\NorthwindApp\bin\NorthwindApp.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.pdb
+C:\Users\AADITYA\Desktop\New folder\NorthwindApp\NorthwindApp\bin\NorthwindApp.dll
+C:\Users\AADITYA\Desktop\New folder\NorthwindApp\NorthwindApp\bin\NorthwindApp.pdb
+C:\Users\AADITYA\Desktop\New folder\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.dll
+C:\Users\AADITYA\Desktop\New folder\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.pdb
+C:\Users\AADITYA\Desktop\New folder\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.csprojResolveAssemblyReference.cache
