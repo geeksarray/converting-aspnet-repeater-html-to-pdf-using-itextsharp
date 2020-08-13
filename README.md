@@ -9,6 +9,6 @@ iTextSharp is a free library to create PDF documents using C#.net. It gives you 
 1. **[Customer](https://github.com/geeksarray/converting-aspnet-repeater-html-to-pdf-using-itextsharp/blob/master/NorthwindApp/NorthwindApp/Customers.aspx)** - has repeater control binded to SQL table shows Customers. 
 2. **[Export customer Repeater](https://github.com/geeksarray/converting-aspnet-repeater-html-to-pdf-using-itextsharp/blob/master/NorthwindApp/NorthwindApp/CustomerExport.aspx)** - code to export Customer Grid / Repeater to PDF using iTextSharp
 
-![Export Customer Data Repeater using iTextSharp](http://dotnetmentors.com/Images/ExportCustomer.png)
+![Export Customer Data Repeater using iTextSharp](https://geeksarray.com/images/blog/ExportCustomer.png)
 
 For more details visit -  https://geeksarray.com/blog/converting-aspnet-repeater-html-to-pdf-using-itextsharp
